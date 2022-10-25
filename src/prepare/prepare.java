@@ -8,6 +8,9 @@ public class prepare {
 		System.out.println("test - psh");
 		System.out.println("test - sdh");
 		System.out.println("test2 - psh");
+		System.out.println("test2 - psh");
+		
+		
 	}
 
 }
