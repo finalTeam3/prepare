@@ -7,6 +7,7 @@ public class prepare {
 		System.out.println("�떎�떆 utf-8濡� 踰꾩쟾�쓣 諛붽씀�뿀�뒿�땲�떦");
 		System.out.println("test - psh");
 		System.out.println("test - sdh");
+		System.out.println("test2 - psh");
 	}
 
 }
