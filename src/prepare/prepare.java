@@ -13,13 +13,13 @@ public class prepare {
 		System.out.println("dongjoon");
 
 		System.out.println("tlsehdwns");
-		System.out.println("merge conflict test - psh");
 		System.out.println("신동준브렌치입니다.");
 		
 		System.out.println("혜정 브랜치 테스트입니다");
 		System.out.println("브랜치 마스터로 합치기~");
 
 		System.out.println("merge test11111 - psh");
+		System.out.println("merge conflict test - psh");
 	}
 
 }
