@@ -19,6 +19,9 @@ public class prepare {
 		System.out.println("브랜치 마스터로 합치기~");
 		
 		System.out.println("마스터로합치기");
+
+		System.out.println("merge test11111 - psh");
+		System.out.println("merge conflict test - psh");
 	}
 
 }
