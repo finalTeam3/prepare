@@ -17,6 +17,8 @@ public class prepare {
 		
 		System.out.println("혜정 브랜치 테스트입니다");
 		System.out.println("브랜치 마스터로 합치기~");
+		
+		System.out.println("마스터로합치기");
 	}
 
 }
