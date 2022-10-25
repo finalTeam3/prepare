@@ -28,6 +28,8 @@ public class prepare {
 		System.out.println("혜정 브랜치 테스트입니다");
 		System.out.println("혜정 브랜치 테스트입니다");
 
+		System.out.println("merge conflict test333 - psh");
+		
 	}
 
 }
