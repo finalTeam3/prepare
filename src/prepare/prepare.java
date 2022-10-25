@@ -2,8 +2,9 @@ package prepare;
 
 public class prepare {
 	private void sysout() {
-		System.out.println("Á¶À±¿µÀÔ´Ï´Ù.");
-		System.out.println("Àú´Â ÇıÁ¤ÀÎµ¥¿ä");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô´Ï´ï¿½.");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Îµï¿½ï¿½ï¿½");
+		System.out.println("ë‹¤ì‹œ utf-8ë¡œ ë²„ì „ì„ ë°”ê¾¸ì—ˆìŠµë‹ˆë‹¹");
 	}
 
 }
